@@ -1,8 +1,8 @@
-- 👋 olá meuu nome @kenielkaua
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 olá meu nome @kenielkaua
+- 👀 meu email de contato é gomes.santos.kaua@escola.pr.gov.br
+- 🌱 estou interessado em aprender a programar em novas linguages
+- 💞️ atualmente ostou aprendendo a programar com o JavaScript e Scratc   
+- 
 
 <!---
 kenielkaua/kenielkaua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
